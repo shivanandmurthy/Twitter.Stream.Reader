@@ -8,7 +8,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#running-the-project">Running the Project</a></li>
     <li><a href="#logging">Logging</a></li>
-    <li><a href="#deployment-branches"</a>Deployment Branches</li>
   </ol>
 </details>
 
